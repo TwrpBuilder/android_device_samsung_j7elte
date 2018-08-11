@@ -18,5 +18,5 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 PRODUCT_DEVICE := j7elte
 PRODUCT_NAME := omni_j7elte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := j7elte
+PRODUCT_MODEL := SM-J700H/F
 PRODUCT_MANUFACTURER := samsung
